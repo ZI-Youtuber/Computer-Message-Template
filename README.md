@@ -3,7 +3,7 @@ A template of a computer message
 
 Write this code first-
 ```
-X=MsgBox("Message Description",0+16,"Title") 
+X=MsgBox("Message Description",0+64,"Title") 
 ```
 **1.  You can write any number from 1,2,3 or 4 instead of 0 (before the '+' symbol)** 
 
@@ -21,7 +21,7 @@ Below is the meaning of these numbers:
 
 5 = Retry / Cancel Button
 
-**2. You can write 32 or 48 or 64 instead of 16.**
+**2. You can write 16 or 32 or 48 instead of 64.**
 
 Below is the meaning of each number:
 
